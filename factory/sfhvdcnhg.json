@@ -1,0 +1,9 @@
+{
+	"name": "sfhvdcnhg",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1567e9ef-3c09-4e6a-b5d6-b61e6fb469e5",
+		"tenantId": "8671fda9-fddd-417f-b60d-37475c0dac72"
+	}
+}
