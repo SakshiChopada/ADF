@@ -1,0 +1,9 @@
+{
+	"name": "SakshiDataFactory1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5d26a930-3b33-437f-badd-6875a821ec15",
+		"tenantId": "8671fda9-fddd-417f-b60d-37475c0dac72"
+	}
+}
