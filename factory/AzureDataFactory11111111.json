@@ -1,0 +1,9 @@
+{
+	"name": "AzureDataFactory11111111",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "67d30bfe-6cc3-4785-b172-1000248ff3ee",
+		"tenantId": "8671fda9-fddd-417f-b60d-37475c0dac72"
+	}
+}
